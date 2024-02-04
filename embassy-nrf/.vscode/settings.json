@@ -1,0 +1,10 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./Cargo.toml",
+    ],
+    "rust-analyzer.cargo.features": [
+        "radio",
+        "nrf52840",
+        "defmt"
+    ]
+}
